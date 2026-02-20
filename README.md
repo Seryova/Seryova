@@ -36,6 +36,3 @@ Me especializo en construir aplicaciones web escalables y soluciones de bases de
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Keep%20Coding&fontSize=40" width="100%" />
-</p>
