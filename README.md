@@ -30,9 +30,9 @@ Me especializo en construir aplicaciones web escalables y soluciones de bases de
 ---
 
 ### 📫 Conectemos
-- 💼 **LinkedIn:** [Tu URL de LinkedIn]
+- 💼 **LinkedIn:** []
 - 📧 **Email:** [sergiogarcia4193@gmail.com]
-- 🌐 **Portfolio:** [Tu Web si tienes]
+- 🌐 **Portfolio:** []
 
 ---
 
