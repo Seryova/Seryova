@@ -26,7 +26,9 @@ Me especializo en construir aplicaciones web escalables y soluciones de bases de
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seryova&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seryova&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seryova&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 📫 Conectemos
