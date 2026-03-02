@@ -30,8 +30,8 @@ Me especializo en construir aplicaciones web escalables y soluciones de bases de
 ---
 
 ### 📫 Conectemos
-- 💼 **LinkedIn:** []
-- 📧 **Email:** [sergiogarcia4193@gmail.com]
+- 💼 **LinkedIn:** www.linkedin.com/in/sergio-yovani-pérez-garcía-38b10b3ab
+- 📧 **Email:** sergiogarcia4193@gmail.com
 - 🌐 **Portfolio:** []
 
 ---
